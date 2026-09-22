@@ -1,28 +1,48 @@
-Hi, I'm David 👋
+# Hi there, I'm David 👋
 
-Computer Engineering Student | Junior Backend & Data Engineer / Full-Stack Developer
-I am a 4th-year Computer Engineering student at the University of Cádiz (UCA) focused on backend software development, big data processing, and scalable architectures. I love solving complex problems by designing efficient APIs, building data pipelines, and connecting systems end-to-end.
-Currently looking for my first professional opportunity (internship) remotely within the European tech market.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-del-olmo-otero)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:david.delolmotero@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Spain-blue?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-🛠️ Tech Stack
+### 💻 Computer Engineering Student | Junior Backend & Data Engineer
 
-* **Backend & APIs:** Python, FastAPI
-* **Big Data & Data Engineering:** Apache Spark (PySpark), Apache Kafka, Apache Hadoop / HDFS, Apache Hive
-* **Containers & DevOps:** Docker, Docker Compose, Git[cite: 1]
-* **Databases & Storage:** MongoDB, PostgreSQL, Elasticsearch
-* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib[cite: 1]
-* **Frontend & Mobile:** Android Studio
-* **Tools & Environments:** Jupyter Notebooks[cite: 1]
+I am a 4th-year Computer Engineering student at the **University of Cádiz (UCA)** focused on backend software engineering, Big Data processing, and scalable architecture design. I enjoy solving complex engineering problems by building efficient APIs, robust data pipelines, and distributed end-to-end systems.
 
-🚀 Featured Projects
+🎯 **Current Goal:** Looking for my first professional opportunity (Internship) in a remote role within the European tech market.
 
-🎵 **Music TransIAtor**
-Full-Stack application for language learning using songs. Built with FastAPI, MongoDB, and Android Studio, asynchronously consuming OpenAI and Spotify APIs.
+---
 
-🎬 **Movie Recommender System & Data Exploration**
-Exploratory Data Analysis (EDA), data cleaning, and recommendation models (Collaborative Filtering / Content-Based) over the MovieLens dataset (+100k ratings) built with Python, Pandas, NumPy, and Scikit-Learn[cite: 1].
+## 🛠️ Tech Stack
 
-📫 Contact Me
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & APIs** | `Python` `FastAPI` |
+| **Big Data & Data Eng.** | `Apache Spark (PySpark)` `Apache Kafka` `Apache Hadoop (HDFS)` `Apache Hive` |
+| **Databases & Storage** | `MongoDB` `PostgreSQL` `Elasticsearch` |
+| **Containers & DevOps** | `Docker` `Docker Compose` `Git` |
+| **Data Science & ML** | `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` |
+| **Frontend & Mobile** | `Android Studio` |
+| **Tools & Environments** | `Jupyter Notebooks` |
 
-💼 LinkedIn: linkedin.com/in/david-del-olmo-otero
-✉️ Email: david.delolmotero@gmail.com
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Music TransIAtor
+> **Full-Stack Application for AI-Powered Language Learning**
+* Engineered a full-stack mobile and backend application to facilitate language acquisition through song lyrics.
+* Built asynchronous API integrations connecting **OpenAI** and **Spotify** services.
+* **Tech Stack:** `FastAPI` • `MongoDB` • `Android Studio` • `Python`
+
+### 🎬 Movie Recommender System & Data Pipeline
+> **Exploratory Data Analysis & Collaborative Recommendation Engine**
+* Performed data cleaning, quality control, and Exploratory Data Analysis (EDA) over the MovieLens dataset (+100k ratings)[cite: 1].
+* Applied recommendation models including Collaborative Filtering and Content-Based Filtering algorithms[cite: 1].
+* **Tech Stack:** `Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Jupyter`[cite: 1]
+
+---
+
+## 📫 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/david-del-olmo-otero](https://linkedin.com/in/david-del-olmo-otero)
+* ✉️ **Email:** [david.delolmotero@gmail.com](mailto:david.delolmotero@gmail.com)
