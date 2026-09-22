@@ -1,32 +1,28 @@
-# Hi, I'm David 👋
+Hi, I'm David 👋
 
-**Computer Engineering Student | Junior Full-Stack / Backend Developer**
-
-I am a 4th-year Computer Engineering student at the University of Cádiz (UCA) focused on backend software development and building clean, scalable architectures. I love solving complex problems by designing efficient APIs and connecting systems end-to-end.
-
+Computer Engineering Student | Junior Backend & Data Engineer / Full-Stack Developer
+I am a 4th-year Computer Engineering student at the University of Cádiz (UCA) focused on backend software development, big data processing, and scalable architectures. I love solving complex problems by designing efficient APIs, building data pipelines, and connecting systems end-to-end.
 Currently looking for my first professional opportunity (internship) remotely within the European tech market.
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
-* **Backend & APIs:**
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-    ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=json&logoColor=white)
-* **Databases:**
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-* **Frontend & Mobile:**
-    ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-* **Tools & Others:**
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-    ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+* **Backend & APIs:** Python, FastAPI
+* **Big Data & Data Engineering:** Apache Spark (PySpark), Apache Kafka, Apache Hadoop / HDFS, Apache Hive
+* **Containers & DevOps:** Docker, Docker Compose, Git[cite: 1]
+* **Databases & Storage:** MongoDB, PostgreSQL, Elasticsearch
+* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib[cite: 1]
+* **Frontend & Mobile:** Android Studio
+* **Tools & Environments:** Jupyter Notebooks[cite: 1]
 
-### 🚀 Featured Project
+🚀 Featured Projects
 
-* 🎵 **[Music TransIAtor](https://github.com/becan7/RealTime-Lyrics-Translator)**: Full-Stack application for language learning using songs. Built with FastAPI, MongoDB, and Android Studio, asynchronously consuming OpenAI and Spotify APIs.
+🎵 **Music TransIAtor**
+Full-Stack application for language learning using songs. Built with FastAPI, MongoDB, and Android Studio, asynchronously consuming OpenAI and Spotify APIs.
 
-### 📫 Contact Me
+🎬 **Movie Recommender System & Data Exploration**
+Exploratory Data Analysis (EDA), data cleaning, and recommendation models (Collaborative Filtering / Content-Based) over the MovieLens dataset (+100k ratings) built with Python, Pandas, NumPy, and Scikit-Learn[cite: 1].
 
-* 💼 **LinkedIn:** [linkedin.com/in/david-del-olmo-otero](https://www.linkedin.com/in/david-del-olmo-otero)
-* ✉️ **Email:** david.delolmotero@gmail.com
+📫 Contact Me
+
+💼 LinkedIn: linkedin.com/in/david-del-olmo-otero
+✉️ Email: david.delolmotero@gmail.com
